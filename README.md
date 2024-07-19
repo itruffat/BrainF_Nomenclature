@@ -164,12 +164,12 @@ leaving the other parameters as a curiosity. Instead of fighting that, we can us
 of commonly used BF Machines. These synonyms will be defined in `nickname_table.csv`, but the underlying idea is the 
 following:
 
-| Nickname |                    Label                    |
-|:--------:|:-------------------------------------------:|
-|  `atari`   | `cv_8b_po_oe_ue~pt_30k_ae_be~io_wi_sw~v_1`   |
-| `genesis`  | `cv_16b_po_oe_ue~pt_30k_ae_be~io_wi_sw~v_1` |
-|   `3do`    | `cv_32b_po_oe_ue~pt_30k_ae_be~io_wi_sw~v_1` |
-|  `jaguar`  | `cv_64b_po_oe_ue~pt_30k_ae_be~io_wi_sw~v_1` |
+| Nickname  |                    Label                    |
+|:---------:|:-------------------------------------------:|
+|  `atari`  |`cv_8b_po_oe_ue~pt_30k_ae_be~io_wi_sw~v_1`   |
+| `genesis` | `cv_16b_po_oe_ue~pt_30k_ae_be~io_wi_sw~v_1` |
+|   `3do`   | `cv_32b_po_oe_ue~pt_30k_ae_be~io_wi_sw~v_1` |
+| `jaguar`  | `cv_64b_po_oe_ue~pt_30k_ae_be~io_wi_sw~v_1` |
 
 These nicknames will need to be at least 3 characters long, and at lest 2 of those characters need to be non-numbers.
 
